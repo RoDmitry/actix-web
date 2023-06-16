@@ -90,6 +90,7 @@ pub mod middleware;
 mod redirect;
 mod request;
 mod request_data;
+mod request_data_move;
 mod resource;
 mod response;
 mod rmap;
